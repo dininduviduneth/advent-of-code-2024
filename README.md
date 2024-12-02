@@ -38,4 +38,6 @@ python3 task-XX.py
 
 - [Advent of Code](https://adventofcode.com/) for providing the challenges.
 
-Enjoy!
+## References for off-cases
+
+- Day-02 - Task-02 --> https://www.reddit.com/r/adventofcode/comments/1h4shdu/2024_day_2_part2_edge_case_finder/
